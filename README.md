@@ -37,7 +37,7 @@ A documentação dos endpoints está disponível em: [Swagger UI](http://localho
 - [API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
 - [SPRING DATA](https://spring.io/projects/spring-data)
 - [SPRING SECURITY](https://spring.io/projects/spring-security)
-- [SQL SERVER](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16)
+- [SQL SERVER](https://github.com/VILHALVA/CURSO-DE-SQL-SERVER)
 - [MAVEN](https://maven.apache.org/)
 - [LOMBOK](https://projectlombok.org)
 - [FLYWAY](https://flywaydb.org/documentation)
